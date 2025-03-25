@@ -1,4 +1,4 @@
-# **Bold** Title: Imhotep Game Src code.
+# Title: Imhotep Game Src code.
 
 ## Project Description
 This Project is the source files of the famous game Imhotep. In this game there are different buildings and only one can be the great master builder.
